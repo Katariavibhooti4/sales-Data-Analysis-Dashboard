@@ -103,16 +103,6 @@ Business Insights
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshots here
-
-```markdown
-![Dashboard Screenshot](dashboard.png)
-```
-
----
-
 ## 📚 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
@@ -147,6 +137,3 @@ Through this project, I gained hands-on experience in:
 🔗 GitHub: [Katariavibhooti4 GitHub Profile](https://github.com/Katariavibhooti4?utm_source=chatgpt.com)
  ⭐ If you found this project useful, don't forget to Star the repository!
 
-**Turning Data into Decisions, One Dashboard at a Time 📊✨**
-
-This style looks much more professional for internship applications, LinkedIn portfolio projects, and future MBA/Product Management profiles.
